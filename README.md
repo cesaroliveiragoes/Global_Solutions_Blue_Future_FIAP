@@ -1,6 +1,6 @@
-# Global_Solutions_Blue_Future_FIAP https://www.youtube.com/watch?v=rig0sSVkH4I
-
-[GS_2TSCR_documento_ideacao.pdf](https://github.com/user-attachments/files/16023613/GS_2TSCR_documento_ideacao.pdf)
+# Global_Solutions_Blue_Future_FIAP 
+#https://www.youtube.com/watch?v=rig0sSVkH4I
+#[GS_2TSCR_documento_ideacao.pdf](https://github.com/user-attachments/files/16023613/GS_2TSCR_documento_ideacao.pdf)
 
 # Contextualização do Problema
 
